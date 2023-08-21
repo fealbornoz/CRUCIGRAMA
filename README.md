@@ -1,7 +1,7 @@
 # Presentación
-Este es un juego realizado en python, el mismo consiste en un crucigrama de 12 palabras de tamaño
+<p>Este es un juego realizado en python, el mismo consiste en un crucigrama de 12 palabras de tamaño
 variable y elegidas al azar de un listado de al menos 50 con sus respectivas definiciones (al final de
-este enunciado se lista un ejemplo).
+este enunciado se lista un ejemplo).</p>
 El crucigrama estará compuesto por:
 ● un tablero fijo de 20x20
 ● 6 palabras horizontales (tanto de izquierda a derecha como viceversa)
